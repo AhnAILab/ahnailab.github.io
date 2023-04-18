@@ -7,7 +7,7 @@ menu:
 
 people:
 - {name: 'Hongryul Ahn', title: 'Professor', department: 'Divison of Data Science', institution: 'The University of Suwon', institution_address: 'Hwaseong-si, South Korea', phone: '(031) 229-8762', email: 'hongryulahn@gmail.com', office: 'Building of Global Business, 1012-ho', image: 'assets/img/primary-investigator.jpg', url: 'hongryulahn'}
-- {name: 'Seungwon Kim', title: 'master's degree student', department: 'Divison of Data Science', institution: 'The University of Suwon', institution_address: 'Hwaseong-si, South Korea', phone: '(031) 229-8762', email: 'kswon0825@naver.com', office: 'Building of Global Business, 406-ho', image: 'assets/img/graduate-student.jpg', url: 'seungwonkim'}
+- {name: 'Seungwon Kim', title: 'Master degree student', department: 'Divison of Data Science', institution: 'The University of Suwon', institution_address: 'Hwaseong-si, South Korea', phone: '(031) 229-8762', email: 'kswon0825@naver.com', office: 'Building of Global Business, 406-ho', image: 'assets/img/graduate-student.jpg', url: 'seungwonkim'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
