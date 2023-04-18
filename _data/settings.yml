@@ -6,9 +6,8 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+- {name: 'Hongryul Ahn', title: 'Professor', department: 'Divison of Data Science', institution: 'The University of Suwon', institution_address: 'Hwaseong-si, South Korea', phone: '(031) 229-8762', email: 'hongryulahn@gmail.com', office: 'Building of Global Business, 1012-ho', image: 'assets/img/primary-investigator.jpg', url: 'hongryulahn'}
+- {name: 'Seungwon Kim', title: 'master's degree student', department: 'Divison of Data Science', institution: 'The University of Suwon', institution_address: 'Hwaseong-si, South Korea', phone: '(031) 229-8762', email: 'kswon0825@naver.com', office: 'Building of Global Business, 406-ho', image: 'assets/img/graduate-student.jpg', url: 'seungwonkim'}
 
 courses:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
@@ -22,4 +21,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Hongryul Ahn', title: 'Professor', department: 'Divison of Data Science', institution: 'The University of Suwon', institution_address: 'Hwaseong-si, South Korea', phone: '(031) 229-8762', email: 'hongryulahn@gmail.com', office: 'Building of Global Business, 1012-ho', image: 'assets/img/contact.jpg'}
