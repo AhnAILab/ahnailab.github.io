@@ -1,11 +1,13 @@
 ---
 layout: page
-title: "Professor"
+title: "Hongryul Ahn"
 ---
 
-Ph.D - Data Science & Artificial Intelligence
+Assistant professor at Division of Data Science, The University of Suwon
 
-The University of Suwon
+Director of DS&ML Center, The University of Suwon
+
+Ph.D - Data Science & Artificial Intelligence
 
 Phone: +82-31-229-8762
 
